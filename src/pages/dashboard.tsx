@@ -1,14 +1,3 @@
-// /// NEW CREATED FILE
-
-// import React from 'react';
-// import AdminDashboard from '@/components/AdminDashboard';
-
-// const AdminDashboardPage = () => {
-//   return <AdminDashboard />;
-// };
-
-// export default AdminDashboardPage;
-
 
 import React, { useState, useEffect } from 'react';
 import { supabase } from '@/integrations/supabase/client';
