@@ -2,4 +2,4 @@
 
 ## Project info
 
-### This is a platform that conects clients to security personels and materials when they need them
+### This is a platform that conects clients to security personels and materials when they need them for their security
